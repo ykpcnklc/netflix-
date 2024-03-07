@@ -1,3 +1,3 @@
 # html ve css ile yapılmıştır
 # gif
-# ![](images/netflix.gif.mp4)
+# ![](images/netflix%20gif.gif)
